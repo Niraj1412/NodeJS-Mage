@@ -1,0 +1,11 @@
+{
+    "name": "betacrew-client",
+    "version": "1.0.0",
+    "description": "Client for BetaCrew Mock Exchange Server",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {}
+  }
+  
